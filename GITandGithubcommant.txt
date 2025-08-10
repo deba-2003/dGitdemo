@@ -1,0 +1,39 @@
+ Git >> Version Control
+
+ v1
+ v2
+ v3
+ new v4
+
+ >> It is distributed (on cloud)
+ >> collaboration
+ >> Tracking Changes
+ >> Recovery
+ 
+
+ https://git-scm.com/download
+
+ Github
+ BitBucket
+ GitLabs
+ Gitpod
+
+
+ >> For first time need to cofigure github in our system
+   git config --global user.name "deba-2003"
+   git config --global user.email "debashissenapati2003@gmail.com"
+
+    git config global color.ui auto
+
+
+    Mandatory commands :
+      >> git init
+      >> git remote add origin https://github.com/deba-2003/dGitdemo.git
+
+      git pull origin main
+      git status
+
+      git add .
+      git status
+      git commit -m "Commit Message"
+      git push
